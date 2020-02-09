@@ -1,0 +1,15 @@
+.page-main {
+    display: flex;
+    margin-top: 120px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title-main {
+    margin-bottom: 32px;
+}
+
+.toolbar {
+    margin-right: 16px;
+    margin-top: 16px;
+}
